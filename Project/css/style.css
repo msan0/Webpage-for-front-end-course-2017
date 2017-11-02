@@ -391,7 +391,8 @@ h1, h2, h3, h4, h5, h6, figure {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
-  border-radius: 50%;
+  border-radius: 4px;
+
 }
 .gtco-staff h3 {
   font-size: 24px;
@@ -425,7 +426,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #52d3aa;
+  color: royalblue;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -522,7 +523,7 @@ form label {
 .gtco-cover .display-tc .btn {
   padding: 15px 30px;
   background: #fff !important;
-  color: #52d3aa;
+  color: #1A61F9;
   border: none !important;
   font-size: 18px;
   text-transform: none;
@@ -635,7 +636,7 @@ form label {
   height: 90px;
   font-size: 40px;
   line-height: 40px;
-  color: #52d3aa;
+  color: crimson;
 }
 .feature-center p, .feature-center h3 {
   margin-bottom: 30px;
@@ -680,7 +681,7 @@ form label {
   display: table-cell;
   vertical-align: middle;
   font-size: 30px;
-  color: #52d3aa;
+  color: crimson;
 }
 .feature-left .feature-copy {
   float: left;
@@ -848,7 +849,7 @@ form label {
   }
 }
 .gtco-tabs .icon-xlg i {
-  color: #52d3aa;
+  color: crimson;
 }
 
 #gtco-started {
@@ -894,8 +895,9 @@ form label {
 #gtco-started .btn {
   height: 54px;
   border: none !important;
-  background: #52d3aa;
-  color: #fff;
+  background: #ffffff;
+  color: #0b0b0b;
+  font-family: Carlito;
   font-size: 16px;
   text-transform: none;
   font-weight: 400;
@@ -1221,9 +1223,9 @@ form label {
 }
 
 .btn-primary {
-  background: #52d3aa;
+  background: #337ab7;
   color: #fff;
-  border: 2px solid #52d3aa;
+
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #66d8b4 !important;
