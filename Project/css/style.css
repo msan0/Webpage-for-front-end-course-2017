@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #52d3aa;
+  color: #3f95ea;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #52d3aa;
+  color: #3f95ea;
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #52d3aa;
+  background: #3f95ea;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #52d3aa;
+  background: #3f95ea;
 }
 
 ::selection {
   color: #fff;
-  background: #52d3aa;
+  background: #3f95ea;
 }
 
 .gtco-container {
@@ -202,7 +202,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .gtco-nav ul li.btn-cta a {
-  color: #52d3aa;
+  color: #3f95ea;
 }
 .gtco-nav ul li.btn-cta a span {
   background: #fff;
@@ -445,7 +445,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .gtco-contact-info ul li:before {
-  color: #52d3aa;
+  color: #3f95ea;
   position: absolute;
   left: 0;
   top: .05em;
@@ -814,7 +814,7 @@ form label {
 }
 .gtco-tabs .gtco-tab-nav li.active a {
   background: #fff;
-  color: #52d3aa;
+  color: #3f95ea;
 }
 .gtco-tabs .gtco-tab-content-wrap {
   clear: both;
@@ -966,7 +966,7 @@ form label {
 }
 .owl-carousel .owl-controls .owl-dot.active span {
   background: transparent;
-  border: 2px solid #52d3aa;
+  border: 2px solid #3f95ea;
 }
 
 #gtco-offcanvas {
@@ -1228,16 +1228,16 @@ form label {
 
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #66d8b4 !important;
-  border-color: #66d8b4 !important;
+  background: #1A61F9 !important;
+  border-color: #1A61F9 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #52d3aa;
-  border: 2px solid #52d3aa;
+  color: #3f95ea;
+  border: 2px solid #3f95ea;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #52d3aa;
+  background: crimson;
   color: #fff;
 }
 
@@ -1367,7 +1367,7 @@ form label {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #52d3aa;
+  border-color: #337ab7;
 }
 
 .row-pb-md {
